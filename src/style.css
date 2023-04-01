@@ -1,6 +1,9 @@
 body {
   font-family: Arial, sans-serif;
 }
+.overwiev {
+  margin-bottom: 20px;
+}
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
@@ -31,4 +34,9 @@ li {
   font-size: 16px;
   font-weight: 100;
   line-height: 18px;
+}
+.weather-temp img {
+  margin-right: 25px;
+  height: 80px;
+  weight: 80px;
 }
