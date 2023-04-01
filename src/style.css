@@ -40,3 +40,14 @@ li {
   height: 80px;
   weight: 80px;
 }
+.weather-temp strong {
+  color: black;
+  font-size: 35px;
+  line-height: 1;
+  font-weight: 400;
+}
+.weather-temp .units {
+  position: relative;
+  font-size: 16px;
+  top: -5px;
+}
